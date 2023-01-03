@@ -1,2 +1,2 @@
-# Sign_Language_Recognition_System
-This is a real time system based on American sign language. 
+# Sign-Language-Recognition-System
+This is functional real time vision based American Sign Language recognition for Dumb &amp; Deaf people. This project is based on ASL words. Prediction has been improved after using white background for real time detection. For the frontend part GUI interface is provided which capture the images.
